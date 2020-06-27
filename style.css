@@ -1,0 +1,86 @@
+
+body {
+    width: 900px;
+    margin: auto;
+    
+ }
+
+main {
+    margin-left: 70px;
+    width: 1000px;
+}
+header nav {
+    height: 40px; 
+    width: 120%;
+    background-color: #3a3636;
+    color: white;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: -59px;
+   
+}
+header{
+    width: 100%;
+    margin-right: 50px;
+ 
+}
+li{
+    display: inline;
+    margin-left: 17px;
+    margin-right: 66px;
+}
+nav {
+    padding-bottom: 70px;
+   
+}
+#logo{
+    padding-top: 20px;
+}
+
+main img {
+    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-left: -70px;
+    padding-right: 97px;
+}
+main p {
+    float: right;
+    width: 450px;
+    margin-right: 108px;
+    max-height: 367px;
+    overflow: scroll;
+    margin-top: -436px;
+}
+b {
+    font-size: 20px;
+}
+footer{
+    height: 95px;
+    width: 120%;
+    background-color: #3a3636;
+    color: white;
+   
+    margin-right: 50px;
+    margin-left: -59px;
+    
+    
+}
+input[type=submit]  {
+    float: right;
+    width: 150px;
+    margin-right: 410px;
+    height: 30px;
+    margin-top: -63px;
+    transition: 350ms;
+    color: white;
+    background-color: black;
+ 
+}
+input[type=submit]:hover{
+   
+    background-color: darkgrey;
+}
+
+body{
+    margin: auto;
+}
